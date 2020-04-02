@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DBQLSV">
+  <DataContextMoniker Name="/DBQLSVDataContext" />
+  <nestedChildShapes>
+    <classShape Id="00501a04-2174-4a70-922b-973aece1c5dd" absoluteBounds="0.5, 1.25, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/DBQLSVDataContext/Lop" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7e297939-79a9-4d73-abb0-45ef489e3bd0" absoluteBounds="0.51500000000000012, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="19e4042e-8e9a-44c4-9442-b7c3b87aca90" absoluteBounds="5.125, 0.875, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/DBQLSVDataContext/SV" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d519e08d-740e-4bd1-9163-42185f0d0c49" absoluteBounds="5.14, 1.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 1.84699625651042); (5.125 : 1.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBQLSVDataContext/Lop/Lop_SV" />
+      <nodes>
+        <classShapeMoniker Id="00501a04-2174-4a70-922b-973aece1c5dd" />
+        <classShapeMoniker Id="19e4042e-8e9a-44c4-9442-b7c3b87aca90" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

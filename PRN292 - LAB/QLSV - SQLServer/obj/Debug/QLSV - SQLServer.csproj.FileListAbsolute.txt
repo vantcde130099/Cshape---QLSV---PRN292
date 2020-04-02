@@ -1,0 +1,9 @@
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV - SQLServer\obj\Debug\QLSV - SQLServer.csprojAssemblyReference.cache
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV - SQLServer\obj\Debug\PRN292___LAB.MainForm.resources
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV - SQLServer\obj\Debug\QLSV___SQLServer.Properties.Resources.resources
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV - SQLServer\obj\Debug\QLSV - SQLServer.csproj.GenerateResource.cache
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV - SQLServer\bin\Debug\QLSV - SQLServer.exe.config
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV - SQLServer\bin\Debug\QLSV - SQLServer.exe
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV - SQLServer\bin\Debug\QLSV - SQLServer.pdb
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV - SQLServer\obj\Debug\QLSV - SQLServer.exe
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV - SQLServer\obj\Debug\QLSV - SQLServer.pdb

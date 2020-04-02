@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLSV" Class="DBQLSVDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-HKGIH5H;Initial Catalog=QLSV;Persist Security Info=True;User ID=sa" SettingsObjectName="QLSV___SQLServer.Properties.Settings" SettingsPropertyName="QLSVConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Lop" Member="Lops">
+    <Type Name="Lop">
+      <Column Name="IDLop" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NameLop" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Lop_SV" Member="SVs" ThisKey="IDLop" OtherKey="IDLop" Type="SV" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SV" Member="SVs">
+    <Type Name="SV">
+      <Column Name="SVId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MSSV" Type="System.String" DbType="NVarChar(8) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SVName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Birthday" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DTB" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="IDLop" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Tel" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="CMND" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="HocBa" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="THPT" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="Lop_SV" Member="Lop" ThisKey="IDLop" OtherKey="IDLop" Type="Lop" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

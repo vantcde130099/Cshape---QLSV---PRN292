@@ -1,0 +1,9 @@
+C:\Users\Vann\source\repos\PRN292 - LAB\PRN292 - LAB\bin\Debug\PRN292 - LAB.exe.config
+C:\Users\Vann\source\repos\PRN292 - LAB\PRN292 - LAB\bin\Debug\PRN292 - LAB.exe
+C:\Users\Vann\source\repos\PRN292 - LAB\PRN292 - LAB\bin\Debug\PRN292 - LAB.pdb
+C:\Users\Vann\source\repos\PRN292 - LAB\PRN292 - LAB\obj\Debug\PRN292 - LAB.csprojAssemblyReference.cache
+C:\Users\Vann\source\repos\PRN292 - LAB\PRN292 - LAB\obj\Debug\PRN292___LAB.MainForm.resources
+C:\Users\Vann\source\repos\PRN292 - LAB\PRN292 - LAB\obj\Debug\PRN292___LAB.Properties.Resources.resources
+C:\Users\Vann\source\repos\PRN292 - LAB\PRN292 - LAB\obj\Debug\PRN292 - LAB.csproj.GenerateResource.cache
+C:\Users\Vann\source\repos\PRN292 - LAB\PRN292 - LAB\obj\Debug\PRN292 - LAB.exe
+C:\Users\Vann\source\repos\PRN292 - LAB\PRN292 - LAB\obj\Debug\PRN292 - LAB.pdb

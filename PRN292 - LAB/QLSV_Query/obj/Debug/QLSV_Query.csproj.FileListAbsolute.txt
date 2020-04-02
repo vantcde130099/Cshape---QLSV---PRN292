@@ -1,0 +1,8 @@
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV_Query\obj\Debug\QLSV_Query.csprojAssemblyReference.cache
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV_Query\obj\Debug\QLSV_Query.Properties.Resources.resources
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV_Query\obj\Debug\QLSV_Query.csproj.GenerateResource.cache
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV_Query\bin\Debug\QLSV_Query.exe.config
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV_Query\bin\Debug\QLSV_Query.exe
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV_Query\bin\Debug\QLSV_Query.pdb
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV_Query\obj\Debug\QLSV_Query.exe
+C:\Users\Vann\source\repos\PRN292 - LAB\QLSV_Query\obj\Debug\QLSV_Query.pdb
